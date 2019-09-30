@@ -2,7 +2,7 @@
 ## Synopsis
 - Used Pandas for Data Wrangling to display a final report 
 ### Academy of Py
-Analyzed the the district-wide standardized test results of every student's math and reading scores, as well as various information on the schools they attend. 
+Analyzed the [Student Data](PyCity_Analysis/students_complete.csv) and the [School Data](PyCity_Analysis/school_complete.csv) district-wide standardized test results. I obtained every student's math and reading scores, as well as various information on the schools they attend. 
 
 Aggregated the data to and showcase obvious trends in school performance.
 
