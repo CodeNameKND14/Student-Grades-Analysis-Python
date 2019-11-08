@@ -1,4 +1,5 @@
 # PyCity Student Analysis
+![1-Logo](Images/school.png)
 ## Synopsis
 - Used Pandas for Data Wrangling to display a final report 
 ### Academy of Py
