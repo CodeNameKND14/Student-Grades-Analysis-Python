@@ -7,10 +7,8 @@ Analyzed the [Student Data](PyCity_Analysis/students_complete.csv) and the [Scho
 
 Aggregated the data to and showcase obvious trends in school performance.
 
-Your final report should include each of the following:
-
 #### District Summary
-- Create a high level snapshot (in table form) of the district's key metrics, including:
+- Created a high level snapshot (in table form) of the district's key metrics, including:
 
   - Total Schools
   - Total Students
@@ -22,7 +20,7 @@ Your final report should include each of the following:
   - Overall Passing Rate (Average of the above two)
   
 #### School Summary
-- Create an overview table that summarizes key metrics about each school, including:
+- Created an overview table that summarized key metrics about each school, including:
 
   - School Name
   - School Type
@@ -37,7 +35,7 @@ Your final report should include each of the following:
   
 #### Top Performing Schools (By Passing Rate)
 
-- Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
+- Created a table that highlighted the top 5 performing schools based on Overall Passing Rate, including:
 
   - School Name
   - School Type
@@ -55,22 +53,22 @@ Your final report should include each of the following:
 
 #### Bottom Performing Schools (By Passing Rate)
 
-- Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
+- Created a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
 
 
 #### Math Scores by Grade
 
-- Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+- Created a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
 #### Reading Scores by Grade
 
-- Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+- Created a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
 #### Scores by School Spending
 
-- Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+- Createed a table that broke down school performances based on average Spending Ranges (Per Student). Used 4 reasonable bins to group school spending. Included in the table each of the following:
 
   - Average Math Score
   - Average Reading Score
